@@ -247,7 +247,7 @@ export const portfolioContent: PortfolioContent = {
         title: "Frontend Development",
         icon: "◫",
         accent: "blue",
-        items: ["ReactJS", "Next.js", "TailwindCSS", "Angular", "Material-UI", "HTML/CSS"]
+        items: ["ReactJS", "Next.js", "Angular", "Material-UI", "HTML/CSS"]
       },
       {
         title: "Backend Development",
@@ -296,6 +296,6 @@ export const portfolioContent: PortfolioContent = {
   },
   footer: {
     copyright: "© 2026 Mrudula Kulkarni. All rights reserved.",
-    builtWith: "Designed & built with Next.js, React, TypeScript, and Tailwind CSS."
+    builtWith: "Designed & built with Next.js, React, TypeScript, and CSS."
   }
 };
